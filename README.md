@@ -44,4 +44,3 @@ Loan approval prediction helps financial institutions assess a borrower's eligib
 - Deploying the model as a **web application**.
 - Enhancing feature engineering with more financial indicators.
 
-## 📂 Project Structure
