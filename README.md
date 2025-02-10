@@ -16,7 +16,7 @@ Loan approval prediction helps financial institutions assess a borrower's eligib
 - **Python**
 - **Pandas, NumPy** (Data Handling)
 - **Matplotlib, Seaborn** (Visualization)
-- **Scikit-Learn** (Machine Learning)
+- **Scikit-Learn** (Machine Learning) 
 - **XGBoost, Random Forest, Logistic Regression** (Modeling)
 
 ## 🚀 Steps Involved
