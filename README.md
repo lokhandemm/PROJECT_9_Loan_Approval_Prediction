@@ -32,12 +32,6 @@ Loan approval prediction helps financial institutions assess a borrower's eligib
 - Applicants with **higher income and low debt** have a better approval rate.
 - Self-employed individuals have a slightly lower approval rate.
 
-## 🔮 Predictive Model Performance
-| Model               | Accuracy | Precision | Recall  |
-|--------------------|----------|-----------|---------|
-| Logistic Regression | 80%     | 0.76      | 0.78    |
-| Random Forest      | 85%      | 0.82      | 0.84    |
-| XGBoost           | 88%      | 0.85      | 0.87    |
 
 ## 📌 Future Improvements
 - Integrating **real-time credit score API** for better predictions.
