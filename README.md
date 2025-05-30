@@ -1,5 +1,5 @@
 # PROJECT_9_Loan_Approval_Prediction    
-        
+         
 ## 📌 Overview   
 Loan approval prediction helps financial institutions assess a borrower's eligibility based on various factors. This project builds a machine learning model to predict whether a loan application should be approved or rejected.
 
