@@ -9,7 +9,7 @@ Loan approval prediction helps financial institutions assess a borrower's eligib
 - Optimize the model for better accuracy and reliability.
 
 ## 🗂️ Dataset
-- Includes applicant details such as **income, credit history, loan amount, marital status, and employment type**.
+- Includes applicant details such as **income, credit history, loan amount, marital status, and employment type**.  
 - Target variable: **Loan Status (Approved/Rejected)**.
 
 ## 🔧 Technologies Used
